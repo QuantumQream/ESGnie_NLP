@@ -12,6 +12,13 @@ We will go over the following topics:
 - Advantages & Drawbacks
 - What can be done next?
 
+# TLDR
+This is a trained topic modeling algorithm that identified 75 different topics (clusters) from the corpus of documents, from these initial clusters it's possible to explore each one on its own by using the included query tools about top documents/words ocurrance and create useful Wordcloud visualizations.
+
+After a bit of work these 75 clusters were reduced to 25 relevant groups that included emisson reduction methods, company goals, institutions followed, etc...
+
+Finally from these 25 groups, 14 methods of emission reduction were identified that not only mention a specific measure taken but also includes useful information about the context and situation on how they were implemented
+
 # How to run the script
 - Before running the script please unzip the model.rar file and extract it to the same folder with all the other files in the repository
 - A text file with all dependencies is also attached
