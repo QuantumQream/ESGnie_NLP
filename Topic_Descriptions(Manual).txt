@@ -1,0 +1,180 @@
+# 0: SBTI, Sectorized/Absolute-Decarbonization Approach, Scopes1+2, IPCC
+    #[0,32,41,72,66,47]
+
+#1: Goals for fiscal years for domestic and overseas locations (japan/asia)
+    #[1,18,52,24,58,61,68,25]
+
+#2: Purchased/Sold goods and services, supply chain products, scope 3, upstream/downstream transportation
+    #[2,10,19,69]
+
+#3: Goal for net-zero carbon emissions by 2030-2060
+    #[3,8]
+
+#4: Repeated docs
+
+#5: Installation of electric efficienct systems in work plants (lighting, air-conditioning,refrigerants)
+    #[5,17,26,73,43]
+
+#6: Reduce fuel consumption, switch to modern engines/electric vehicles
+    #[6,39,53]
+
+#7: unclear (challenge, review, given, consolidation)
+    #[7,48,49,51,74]
+
+#8: Carbon neutrality achieve or remain with zero emissions
+
+#9: url links
+
+# 10: Reduction in emissions due to covid (travel, commuting)
+
+#11: Replacing coal based plants with natural gas, solar and wind powered systems
+    #[11,67]
+
+#12: Discussion of CO2 emission metrics (tons/year)
+    #[12,22,56,54]
+
+#13: Discussion of factories and plants in asia
+    #[13]
+
+#14: Emission reduction for office spaces in particular
+    #[14]
+
+#15: Purchasing energy with Guarantees of Origin and renewable energy certificates
+    #[15,70]
+
+#16: Reducing stationary combustion emissions
+    #[16]
+
+# 17: Similar to 5 (installation of electric efficienct systems in work plants (lighting, air-conditioning))
+
+# 18: Similar to 1 (asia)
+
+# 19: Company culture and staff awareness of scope 3 emissions
+
+# 20: Switch to renewables and carbon neutrality in retail/commercial/non-manufactoring center (primarily solar)
+
+# 21: Reduced Scope1+2 emissions ahead of target year based on renewable energy
+
+# 22: Similar to 12
+
+#23: Recycling
+    #[23,55]
+
+# 24: Similar to 1 (korea/asia)
+
+#25: unclear (range, japan, fiscal)
+
+# 26: Similar to 5
+
+#27: Discussion of progress in Europe
+
+#28: Renewable energies Solar, Wind (both switch and invest)
+    #[28,20,21,30]
+
+#29: INDC
+    #[29]
+
+# 30: Efficient power generators + (solar, wind, hydro, geo)
+
+# 31: Yearly rolling targets
+
+# 32: Approved target submissions (sbti)
+
+#33: time-frame targets
+
+#34: Energy efficiency in sold products
+    #[34]
+
+#35: Repeated docs
+
+# 36: 3% Solution, WWF and CDP, Science based
+    #[36]
+
+#37: Comerica reduce emissions in real estate ocuppied locations (unable to get approved by science based targets)
+
+# 38: yearly goals
+    #[38,62,31,33]
+
+# 39: Similar to 6
+
+#40: Market-based emission targets
+    #[40]
+
+# 41: Mélia Hotels SBTI
+
+#42: Taiwan plan target emissions
+
+# 43: Installation of energy efficient refrigerants and cooling systems
+
+#44: Reduce methane emissions from natural gas processes
+    #[44]
+
+#45: Percentage of Emission in scopes water/chemicals/vehicles
+
+#46: Gold Standard certificates and carbon credits
+    #[46]
+
+#47: REE sbtis goals
+
+#48: unclear (food processes, livestock, fishing)
+
+#49: unclear (a bit of everything)
+
+#50: Waste per kg calculation
+    #[50]
+
+#51: unclear ()
+
+# 52: similar to 1 (LG domestic/overseas fiscal year emissions)
+
+# 53: Improve aviation fuel consumption (specially Canada?)
+
+# 54: Set GHG emission caps
+
+# 55: similar to 23
+
+# 56: similar to 12
+
+#57: Reduce flaring emissions to zero to 2025-2030
+    #[57]
+
+# 58: similar to 1
+
+#59: KT's progress in korea
+
+#60: Emissions in construction sites and its head quarters
+
+# 61: similar to 1
+
+# 62: similar to 38
+
+#63: Caixabanks goals
+
+#64: Intesa Sanpaolo Group goals
+
+#65: UK progress
+
+# 66: unclear (sbti america brazil itaú)
+
+# 67: similar a 11 (coal plant closings)
+
+# 68: similar to 1
+
+#69: scope 3 emissions from business travel
+
+# 70: similar to 15
+
+# 71: Reduction of scope 1 and 2 emissions CCR brazil land (not SBTI)
+
+# 72: yearly general goals sbti
+
+# 73: similar to 5
+
+#74: unclear (a bit of everything)
+
+# OTHERS:
+    #[27,37,35,4,9,42,45,59,60,63,64,65,71]
+
+
+
+
