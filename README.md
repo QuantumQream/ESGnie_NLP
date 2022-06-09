@@ -12,6 +12,10 @@ We will go over the following topics:
 - Advantages & Drawbacks
 - What can be done next?
 
+# How to run the script
+- Before running the script please unzip the model.rar file and extract it to the same folder with all the other files in the repository
+- A text file with all dependencies is also attached
+- After running the script, two new csv files will be created containing the group/activity each document belongs to
 
 # The problem
 The tasks of identifying emission reduction methods from a large sample of documents can be considered an **unsupervised learning** problem,
