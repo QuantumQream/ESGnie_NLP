@@ -48,7 +48,7 @@ Simple models such as LDA or NMF with tf-idf vectorizers were not too effective,
 A better approach would be to create a **joint embedding** of both word and document vectors in a _semantic space_.
 However this would also suggest that some form of **dimensionality reduction** (like PCA, or an Encoder) should take place before **clustering** in order to make this more efficient
 
-Lucky for us, this exact process is pretty much exactly built into the library [Top2Vec](https://github.com/ddangelov/Top2Vec). First the algorithm [Word2Vec](https://radimrehurek.com/gensim/models/doc2vec.html) creates the semantic space,
+Lucky for us, this exact process is pretty much exactly built into the library [Top2Vec](https://github.com/ddangelov/Top2Vec). First the algorithm [Doc2Vec](https://radimrehurek.com/gensim/models/doc2vec.html) creates the semantic space,
 the algorithm [UMAP](https://arxiv.org/abs/1802.03426) (~~This brings back nightmares from General Relativity~~) does dimensionality reduction and finally the topic clusters are created with [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan).
 
 Having everything conveniently packed into a single library certainly helps the process
